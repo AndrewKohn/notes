@@ -3,6 +3,7 @@ created:
   - 2024-03-09 09:55
 tags:
   - rust
+  - programming
 ---
 # Vector
 

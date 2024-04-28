@@ -3,6 +3,7 @@ created:
   - 2024-03-09 09:47
 tags:
   - rust
+  - programming
 ---
 # Crates
 

@@ -3,6 +3,7 @@ created:
   - 2024-03-09 09:52
 tags:
   - rust
+  - programming
 ---
 # Data types
 

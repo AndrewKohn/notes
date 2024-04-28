@@ -3,6 +3,7 @@ created:
   - 2024-03-09 11:24
 tags:
   - javascript
+  - programming
 ---
 # splice()
 
