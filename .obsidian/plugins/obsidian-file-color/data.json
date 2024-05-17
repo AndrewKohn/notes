@@ -1,0 +1,101 @@
+{
+  "cascadeColors": true,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "9RwxnK7jqiYGeRVgvtdK7",
+      "name": "Yellow",
+      "value": "#f9dc5c"
+    },
+    {
+      "id": "pAyUyL4LuHv9D2glXKXLm",
+      "name": "Orange1",
+      "value": "#f4a261"
+    },
+    {
+      "id": "0-ABNKgaczNO67vkV9bJe",
+      "name": "Orange2",
+      "value": "#f8961e"
+    },
+    {
+      "id": "P9O_g_aGE3xwxBXfrA9tD",
+      "name": "Blue1",
+      "value": "#a2d2ff"
+    },
+    {
+      "id": "myof-THISDCTuKZheJaCY",
+      "name": "Blue2",
+      "value": "#73d2de"
+    },
+    {
+      "id": "jscA8ugoMVZMz4LKP48Zs",
+      "name": "Blue3",
+      "value": "#3da5d9"
+    },
+    {
+      "id": "OVQoq46oOzPQANAVZ3KB2",
+      "name": "Gray",
+      "value": "#8a817c"
+    },
+    {
+      "id": "yzMesW989bc4AS6SNnqWT",
+      "name": "White",
+      "value": "#fffcf2"
+    },
+    {
+      "id": "QgYW0-2PCkLbkIMR32FRQ",
+      "name": "Red",
+      "value": "#ff686b"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Assets",
+      "color": "OVQoq46oOzPQANAVZ3KB2"
+    },
+    {
+      "path": "Unsorted",
+      "color": "OVQoq46oOzPQANAVZ3KB2"
+    },
+    {
+      "path": "Templates",
+      "color": "OVQoq46oOzPQANAVZ3KB2"
+    },
+    {
+      "path": "Rust",
+      "color": "0-ABNKgaczNO67vkV9bJe"
+    },
+    {
+      "path": "React",
+      "color": "P9O_g_aGE3xwxBXfrA9tD"
+    },
+    {
+      "path": "LADL",
+      "color": "QgYW0-2PCkLbkIMR32FRQ"
+    },
+    {
+      "path": "Journal",
+      "color": "yzMesW989bc4AS6SNnqWT"
+    },
+    {
+      "path": "JavaScript",
+      "color": "9RwxnK7jqiYGeRVgvtdK7"
+    },
+    {
+      "path": "HTML",
+      "color": "pAyUyL4LuHv9D2glXKXLm"
+    },
+    {
+      "path": "Docker",
+      "color": "myof-THISDCTuKZheJaCY"
+    },
+    {
+      "path": "CSS",
+      "color": "jscA8ugoMVZMz4LKP48Zs"
+    },
+    {
+      "path": "README.md",
+      "color": "OVQoq46oOzPQANAVZ3KB2"
+    }
+  ]
+}

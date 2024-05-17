@@ -1,0 +1,19 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "gym": "checkbox",
+    "weight": "number",
+    "bpm_avg": "number",
+    "move_goal": "checkbox",
+    "exercise_goal": "checkbox",
+    "stand_goal": "checkbox",
+    "distance": "number",
+    "steps": "number",
+    "sleep": "number",
+    "vitamins": "checkbox",
+    "created": "text",
+    "title": "text"
+  }
+}

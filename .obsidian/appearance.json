@@ -1,0 +1,9 @@
+{
+  "accentColor": "#ca4912",
+  "cssTheme": "Obsidian gruvbox",
+  "interfaceFontFamily": "JetBrains Mono",
+  "enabledCssSnippets": [
+    "img-centered",
+    "img-rounded"
+  ]
+}
