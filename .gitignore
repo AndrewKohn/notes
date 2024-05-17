@@ -14,7 +14,6 @@ dist
 dist-ssr
 *.local
 .env
-.obsidian
 .trash
 
 # Editor directories and files
