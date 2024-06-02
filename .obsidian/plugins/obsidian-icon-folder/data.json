@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FarCircleQuestion",
+      "FarFileCode",
       "LiFileCheck2",
       "BoBxsVideos",
-      "LiScan",
-      "❔",
-      "⚙"
+      "LiScan"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -45,5 +45,7 @@
   "Recipes": "FiBookmark",
   "Templates": "LiFileCheck2",
   "Unsorted": "LiScan",
-  "Assets": "BoBxsVideos"
+  "Assets": "BoBxsVideos",
+  "Coding Projects": "FarFileCode",
+  "LADL/LADL Practice Exam Answers.md": "FarCircleQuestion"
 }

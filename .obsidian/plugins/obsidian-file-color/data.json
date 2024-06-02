@@ -46,6 +46,11 @@
       "id": "QgYW0-2PCkLbkIMR32FRQ",
       "name": "Red",
       "value": "#ff686b"
+    },
+    {
+      "id": "mO5hAFc3FVz6jikrWkyvF",
+      "name": "Green",
+      "value": "#7bf1a8"
     }
   ],
   "fileColors": [
@@ -96,6 +101,10 @@
     {
       "path": "README.md",
       "color": "OVQoq46oOzPQANAVZ3KB2"
+    },
+    {
+      "path": "Coding Projects",
+      "color": "mO5hAFc3FVz6jikrWkyvF"
     }
   ]
 }
