@@ -1119,3 +1119,103 @@ Feedback:
 
 ---
 
+### Exam : Understanding Workplace Violence
+
+|**1. True or False: For workplace violence to occur, it must be committed by an employee or ex-employee of the organization.**|   |
+|---|---|
+|Learner Response:|False|
+|Correct Answer:|False|
+|Feedback:||
+
+|**2. What is the best way to handle individuals who are intentionally trying to intimidate you?**|   |
+|---|---|
+|Learner Response:|Set clear boundaries at the first sign of inappropriate behavior.|
+|Correct Answer:|Set clear boundaries at the first sign of inappropriate behavior.|
+|Feedback:||
+
+|**3. Which of the following individuals is MOST likely to commit an act of workplace violence?**|   |
+|---|---|
+|Learner Response:|A person who was unexpectedly fired from their job|
+|Correct Answer:|A person who was unexpectedly fired from their job|
+|Feedback:||
+
+|**4. Jeanne works in an assisted living facility. A coworker seems to be bothered by something. She is angry at the supervisor and has made threatening remarks in her presence. Jeanne is fearful of the coworker, just wants to “keep the peace,” and chooses not to report the coworker’s behaviors. Jeanne’s choice of action represents which barrier of reporting?**|   |
+|---|---|
+|Learner Response:|Fear of retaliation|
+|Correct Answer:|Fear of retaliation|
+|Feedback:||
+
+|**5. Which term defines when offenders, either on purpose or accidentally, reveal their plans for some form of targeted violence?**|   |
+|---|---|
+|Learner Response:|Leakage|
+|Correct Answer:|Leakage|
+|Feedback:||
+
+---
+
+### Exam : Ladder Safety
+
+|**1. You should never use single ladders over what height?**|   |
+|---|---|
+|Learner Response:|30 feet|
+|Correct Answer:|30 feet|
+|Feedback:||
+
+|**2. How far above the support point should ladders extend when accessing a roof?**|   |
+|---|---|
+|Learner Response:|3 feet|
+|Correct Answer:|3 feet|
+|Feedback:||
+
+|**3. The base of the ladder should be _______________.**|   |
+|---|---|
+|Learner Response:|1 foot away from the wall for every 4 feet the ladder rises|
+|Correct Answer:|1 foot away from the wall for every 4 feet the ladder rises|
+|Feedback:||
+
+---
+
+### Exam : OSHA: About Confined Spaces
+
+|**1. True or False: Only an employee with a written entry permit may enter a permit-required confined space.**|   |
+|---|---|
+|Learner Response:|TRUE|
+|Correct Answer:|TRUE|
+|Feedback:|Correct, this permit will describe why the employee needs to enter the space.|
+
+|**2. Which statement accurately describes a completed, written permit for confined space entry?**|   |
+|---|---|
+|Learner Response:|Describes why the employee needs to enter the space|
+|Correct Answer:|Describes why the employee needs to enter the space|
+|Feedback:|Correct, permits are specific for each job and indicate the date, time, and names of the authorized entrant and attendant. The entry supervisor must sign and date each permit. Blanket permits are not acceptable.|
+
+|**3. Who is the person who will be posted just outside the confined space?**|   |
+|---|---|
+|Learner Response:|The attendant|
+|Correct Answer:|The attendant|
+|Feedback:|Correct, the attendant is the employee who will be posted just outside the confined space.|
+
+---
+
+### Exam : Providing Customer Service
+
+| **1. A customer tells you that the staff at your company was unpleasant and disrespectful the previous time she visited. Which response BEST represents good customer service?** |                                                                                                          |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| Learner Response:                                                                                                                                                                | I’m sorry to hear you had a bad experience. I’ll do my best to make sure that experience isn’t repeated! |
+| Correct Answer:                                                                                                                                                                  | I’m sorry to hear you had a bad experience. I’ll do my best to make sure that experience isn’t repeated! |
+| Feedback:                                                                                                                                                                        |                                                                                                          |
+
+|**2. Which word BEST describes conflict, such as different views of the same product or service?**|   |
+|---|---|
+|Learner Response:|Natural|
+|Correct Answer:|Natural|
+|Feedback:||
+
+|**3. Which action is MOST helpful when you are dealing with an unsatisfied customer?**|   |
+|---|---|
+|Learner Response:|Make certain they know you have heard their concern.|
+|Correct Answer:|Make certain they know you have heard their concern.|
+|Feedback:||
+
+---
+
