@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FiCoffee",
+      "FiCircle",
       "FarCircleQuestion",
       "FarFileCode",
-      "LiFileCheck2",
-      "BoBxsVideos",
-      "LiScan"
+      "LiFileCheck2"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,10 +42,11 @@
   "LADL": "FiHeart",
   "React": "SiReact",
   "Rust": "SiRust",
-  "Recipes": "FiBookmark",
+  "Recipes": "FiCoffee",
   "Templates": "LiFileCheck2",
   "Unsorted": "LiScan",
   "Assets": "BoBxsVideos",
   "Coding Projects": "FarFileCode",
-  "LADL/LADL Practice Exam Answers.md": "FarCircleQuestion"
+  "LADL/LADL Practice Exam Answers.md": "FarCircleQuestion",
+  "Miscellaneous": "FiCircle"
 }

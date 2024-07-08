@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0d330882a29adafb",
+        "id": "83980067fe8dcd61",
         "type": "tabs",
         "children": [
           {
-            "id": "517b363464c9cb54",
+            "id": "b3c1e783eb900283",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Unsorted/Untitled.canvas",
-                "viewState": {
-                  "x": -78,
-                  "y": 143,
-                  "zoom": -0.00860579056767748
-                }
+                "file": "Journal/Notes/AACN RN Courses.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -52,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:la",
+                "query": "tag:03CC90",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unsorted/Untitled.canvas",
+                "file": "Journal/Notes/AACN RN Courses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unsorted/Untitled.canvas",
+                "file": "Journal/Notes/AACN RN Courses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unsorted/Untitled.canvas"
+                "file": "Journal/Notes/AACN RN Courses.md"
               }
             }
           }
@@ -155,7 +152,7 @@
       {
         "id": "09fb11bee6fcb9b0",
         "type": "tabs",
-        "dimension": 30.74866310160428,
+        "dimension": 25.668449197860966,
         "children": [
           {
             "id": "701098b8aae21d17",
@@ -170,7 +167,7 @@
       {
         "id": "20aa45b28b9a0302",
         "type": "tabs",
-        "dimension": 26.827094474153295,
+        "dimension": 31.907308377896616,
         "children": [
           {
             "id": "92ff07969eda0772",
@@ -194,57 +191,61 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": true,
-      "pomodoro-timer:Toggle timer panel": true
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "517b363464c9cb54",
+  "active": "b3c1e783eb900283",
   "lastOpenFiles": [
-    "Unsorted/obsidian todo.md",
-    "Unsorted/Untitled.canvas",
-    "Journal/Daily/06-June/2024-06-01.md",
-    "Journal/Weekly/2024-W22.md",
-    "Unsorted/mgh grocery list.md",
-    "Journal/Notes/2024 Housing Support (GRH).md",
     "Journal/Notes/Auto Service History.md",
-    "Journal/Pomodoro.md",
-    "Coding Projects/tech-oriented-mastery/Wireframes - tech-oriented-mastery.md",
-    "Coding Projects/tech-oriented-mastery/Overview - tech-oriented-mastery.md",
     "Journal/Trackers/Tracker - Distance.md",
-    "Journal/Trackers/Tracker - Sleep.md",
-    "Journal/Trackers/Tracker - Weight.md",
-    "Journal/Trackers/Tracker - Steps.md",
-    "Journal/Daily/05-May/2024-05-31.md",
-    "Journal/Daily/05-May/2024-05-19.md",
-    "Journal/Weekly/2024-W20.md",
-    "Journal/Daily/05-May/2024-05-18.md",
-    "Journal/Daily/05-May/2024-05-17.md",
-    "Journal/Daily/05-May/2024-05-30.md",
+    "Journal/Daily/07-July/2024-07-08.md",
+    "Journal/Notes/AACN RN Courses.md",
+    "Miscellaneous/Healthcare/pulm1_a1.md",
+    "Unsorted/Untitled.md",
     "Journal/Notes/Paychex Time clock setup.md",
-    "Journal/Daily/06-June",
-    "Journal/Daily/05-May/2024-05-29.md",
-    "Journal/Notes/Xfinity.md",
-    "LADL/LADL Practice Exam Answers.md",
-    "LADL/Mental Health Person-Centered Care and Collaboration.md",
-    "Unsorted/Obsidian plugins.md",
-    "Journal/Notes",
+    "Journal/Notes/Untitled.md",
+    "Journal/Notes/2024 Housing Support (GRH).md",
+    "Journal/Tasks/Patient Housing Assistance Program.md",
+    "Journal/Daily/07-July",
+    "Miscellaneous/Healthcare/pulm1_a2.md",
+    "Miscellaneous/Healthcare/neuro1_a3.md",
+    "Miscellaneous/Healthcare/neuro1_a4.md",
+    "Coding Projects/tech-oriented-mastery/Wireframe - tech-oriented-overview.excalidraw.md",
+    "Miscellaneous/Healthcare/cardio4_a3.md",
+    "Miscellaneous/Healthcare/neuro1_a2.md",
+    "Miscellaneous/Healthcare/neuro1_a1.md",
+    "Miscellaneous/Healthcare/cardio4_a4.md",
+    "Unsorted/adsf.md",
+    "Miscellaneous/Healthcare",
+    "Untitled",
+    "React/mgh grocery list.md",
+    "Assets/Healthcare/cardio4_a3.pdf",
+    "Miscellaneous",
+    "Untitled 1",
+    "Assets/Healthcare/pulm1_a2.pdf",
+    "Assets/Healthcare/pulm1_a1.pdf",
+    "Assets/Healthcare/neuro1_a4.pdf",
+    "Assets/Healthcare/neuro1_a3.pdf",
+    "Coding Projects/tech-oriented-mastery/Time Estimates - tech-oriented-mastery.canvas",
+    "Coding Projects/tech-oriented-mastery/Overview - tech-oriented-mastery.md",
+    "Journal/Daily/06-June/2024-06-21.md",
+    "Journal/Daily/06-June/2024-06-18.md",
+    "Journal/Daily/06-June/2024-06-20.md",
+    "Coding Projects/tech-oriented-mastery/Mind Map - tech-oriented-overview.canvas",
+    "Assets/Programming/tom-typography.png",
+    "Journal/Weekly/2024-W25.md",
+    "Journal/Daily/06-June/2024-06-19.md",
+    "Assets/Programming/colors - tech-oriented-mastery.png",
+    "Coding Projects/tech-oriented-mastery/Wireframes - tech-oriented-mastery.canvas",
     "Assets/Journal/statement-of-needs-1.jpg",
     "Assets/Journal/statement-of-needs-2.jpg",
-    "Assets/Journal",
-    "Assets/Daily",
-    "Journal/Tasks",
-    "Journal/Daily/05-May",
-    "Journal/Daily/2024-W20",
-    "Journal/Daily/Invalid date",
-    "Coding Projects/tech-oriented-mastery",
-    "Coding Projects",
     "Assets/Recipes/Creamy-Garlic-Butter-Tuscan-Shrimp-104.jpg",
     "Assets/Programming/color-1.png",
     "Assets/Recipes/pandesal.jpg",
     "Assets/DIY/backlit-decor-idea.png",
     "Assets/Programming/img-attributes-3.png",
-    "Assets/Programming/img-attributes-2.png",
-    "Assets/Programming/images-5.png",
-    "Assets/Programming/images-3.png"
+    "Assets/Programming/img-attributes-2.png"
   ]
 }
