@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FarChartBar",
       "FiCoffee",
       "FiCircle",
       "FarCircleQuestion",
-      "FarFileCode",
-      "LiFileCheck2"
+      "FarFileCode"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -48,5 +48,6 @@
   "Assets": "BoBxsVideos",
   "Coding Projects": "FarFileCode",
   "LADL/LADL Practice Exam Answers.md": "FarCircleQuestion",
-  "Miscellaneous": "FiCircle"
+  "Miscellaneous": "FiCircle",
+  "Data Structures & Algorithms": "FarChartBar"
 }
